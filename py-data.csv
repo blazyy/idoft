@@ -252,7 +252,7 @@ https://github.com/djrobstep/logx,c53fabbc160fb8d70fa878684ea36f0c22fd5caa,tests
 https://github.com/djrobstep/logx,c53fabbc160fb8d70fa878684ea36f0c22fd5caa,tests/test_logx.py::test_formatted_output tests/test_logx.py::test_plain_output,,,,pytest --randomly-seed=1234
 https://github.com/djrobstep/logx,c53fabbc160fb8d70fa878684ea36f0c22fd5caa,tests/test_logx.py::test_plain_output,OD-Vic,,,
 https://github.com/djrobstep/logx,c53fabbc160fb8d70fa878684ea36f0c22fd5caa,tests/test_logx.py::test_set_format,OD-Vic,,,
-https://github.com/dmarkey/aiopylimit,b4075a8ac30dbbef59a2243f618a35a2f54b590c,aiopylimit/tests/test_aiopylimit.py::TestPyLimit::test_exception,OD-Vic,,,
+https://github.com/dmarkey/aiopylimit,b4075a8ac30dbbef59a2243f618a35a2f54b590c,aiopylimit/tests/test_aiopylimit.py::TestPyLimit::test_exception,OD-Vic,Deleted,,Deleted in commit 22ca825ec9e76baf3005cd0f0086a245a682a396
 https://github.com/dmuhs/mythx-cli,defc59e2a8732a6e2e550ac62ded5a46c32a780b,tests/test_path_sanitize.py::test_sanitize_ast,,,,pytest --flake-finder --flake-runs=2
 https://github.com/dmuhs/mythx-cli,f6b3d20d51ca1cfaed3cd45226bd1074388d42b9,tests/test_report.py::test_report_json,OD-Vic,,,
 https://github.com/dmuhs/mythx-cli,f6b3d20d51ca1cfaed3cd45226bd1074388d42b9,tests/test_report.py::test_report_json_blacklist,OD-Vic,,,
@@ -838,10 +838,10 @@ https://github.com/max-k/flask-multi-redis,fa781d3598448a6429309a686de9a8adb53f9
 https://github.com/max-k/flask-multi-redis,fa781d3598448a6429309a686de9a8adb53f9f34,test/integration/test_flask_multi_redis.py::test_task_runner,OD-Vic,,,
 https://github.com/mehdisadeghi/clashogram,5b8cc18adfc92ad381040ee25b750df462122939,test_everything.py::MessageFactoryTestCase::test_format_time_default,OD-Vic,,,
 https://github.com/mehdisadeghi/clashogram,6ea9eef543201f117749fa290df800c32eb18f54,test_everything.py::MessageFactoryTestCase::test_format_time_default,OD-Vic,Accepted,https://github.com/mehdisadeghi/clashogram/pull/32,
-https://github.com/metachris/logzero,bc19173105561650bfdd0ae22d1bb0d9dcb1be99,tests/test_json.py::test_json,,,,pytest --randomly-seed=12 or pytest --flake-finder --flake-runs=2
-https://github.com/metachris/logzero,b5d49fc2b118c370994c4ae5360d7c246d43ddc8,tests/test_logzero.py::test_default_logger_stderr_output,OD-Brit,,,
-https://github.com/metachris/logzero,b5d49fc2b118c370994c4ae5360d7c246d43ddc8,tests/test_logzero.py::test_write_to_logfile_and_stderr,NIO,,,
-https://github.com/metachris/logzero,b5d49fc2b118c370994c4ae5360d7c246d43ddc8,tests/test_logzero.py::test_write_to_logfile_and_stderr,OD-Vic,,,
+https://github.com/metachris/logzero,bc19173105561650bfdd0ae22d1bb0d9dcb1be99,tests/test_json.py::test_json,,RepoArchived,,pytest --randomly-seed=12 or pytest --flake-finder --flake-runs=2
+https://github.com/metachris/logzero,b5d49fc2b118c370994c4ae5360d7c246d43ddc8,tests/test_logzero.py::test_default_logger_stderr_output,OD-Brit,RepoArchived,,
+https://github.com/metachris/logzero,b5d49fc2b118c370994c4ae5360d7c246d43ddc8,tests/test_logzero.py::test_write_to_logfile_and_stderr,NIO,RepoArchived,,
+https://github.com/metachris/logzero,b5d49fc2b118c370994c4ae5360d7c246d43ddc8,tests/test_logzero.py::test_write_to_logfile_and_stderr,OD-Vic,RepoArchived,,
 https://github.com/mfreeborn/fastapi-sqlalchemy,8ddf0edab22873365441757107ce21234bc09f8f,tests/test_session.py::test_inside_route_without_middleware_fails,OD-Vic,,,
 https://github.com/mfreeborn/fastapi-sqlalchemy,8ddf0edab22873365441757107ce21234bc09f8f,tests/test_session.py::test_outside_of_route_without_middleware_fails,OD-Vic,,,
 https://github.com/michaelpb/stowage,7c619be755b9b73fd202367bcf9014472f318834,test/test_stowage.py::TestPathGenerators::test_directory_walk,OD-Vic,,,
@@ -1241,11 +1241,11 @@ https://github.com/sgaynetdinov/py-vkontakte,b03246b8d4b6f5ee5ab7e5c67e09e1f14b8
 https://github.com/sjoerdk/anonapi,5e70dfd9fcb7dcc4e2345a6a153d9530f4886e73,tests/test_cli_create.py::test_job_parameter_set,NIO,,,
 https://github.com/sjoerdk/anonapi,5e70dfd9fcb7dcc4e2345a6a153d9530f4886e73,tests/test_cli_create.py::test_job_parameter_set,OD-Vic,,,
 https://github.com/sloria/TextBlob,6396e24e85af7462cbed648fee21db5082a1f3fb,tests/test_formats.py::TestRegistry::test_register,NIO,Opened,https://github.com/sloria/TextBlob/pull/404,
-https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_ArbitraryNumberImputer,OD-Vic,,,
+https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_ArbitraryNumberImputer,OD-Vic,Deleted,,Deleted in commit e40457ce8b4baa1e146976bf1af1bbdf6eae1305
 https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_CategoricalVariableImputer,NIO,DeveloperFixed,,
-https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_CategoricalVariableImputer,OD-Vic,,,
-https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_EndTailImputer,OD-Vic,,,
-https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_MeanMedianImputer,OD-Vic,,,
+https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_CategoricalVariableImputer,OD-Vic,Deleted,,Deleted in commit e40457ce8b4baa1e146976bf1af1bbdf6eae1305
+https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_EndTailImputer,OD-Vic,Deleted,,Deleted in commit e40457ce8b4baa1e146976bf1af1bbdf6eae1305
+https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_MeanMedianImputer,OD-Vic,Deleted,,Deleted in commit e40457ce8b4baa1e146976bf1af1bbdf6eae1305
 https://github.com/solegalli/feature_engine,ba4d7050b3923d620c1773b66cd4c51ed24498dd,tests/test_missing_data_imputer.py::test_RandomSampleImputer,NIO,DeveloperFixed,,
 https://github.com/spulec/freezegun,b46da782a7a051081fd51577749cfc0074db0cc6,tests/test_class_import.py::test_can_ignore_email_module,OD-Vic,,,
 https://github.com/spulec/freezegun,b46da782a7a051081fd51577749cfc0074db0cc6,tests/test_class_import.py::test_fake_uses_real_when_ignored,OD-Vic,,,
@@ -1396,26 +1396,26 @@ https://github.com/thesimj/envyaml,79a220cabb69d71397310d941de205610cf5e4cb,test
 https://github.com/thimic/nodal,261eeefd50298765c5722c5f7da72e6f2927bd3e,tests/nodal/nodes/test_noop.py::TestNoOp::test_name,OD-Vic,,,
 https://github.com/thimic/nodal,261eeefd50298765c5722c5f7da72e6f2927bd3e,tests/nodal/test_graph.py::TestGraph::test__on_node_create,OD-Vic,,,
 https://github.com/thimic/nodal,261eeefd50298765c5722c5f7da72e6f2927bd3e,tests/nodal/test_graph.py::TestGraph::test__on_node_destroy,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_collection_types,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_complex_types,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_get_blocking,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_get_nowait_timeout,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_primitive_types,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_put_get,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_echo_command_response_function,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_error_function,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_remote_decorator,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_function,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_list_param_function,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_multiple_param_default_function,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_multiple_param_function,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_stateful_rpc,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_timeout,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_void_function_error,OD-Vic,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_redis.py::RedisRpcTest::test_channel_expire,NOD,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_simple.py::SimplePubSubTest::test_event_serialization,NOD,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_simple.py::SimplePubSubTest::test_topic,NOD,,,
-https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_simple.py::SimpleRpcTest::test_stateful_rpc,NOD,,,
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_collection_types,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_complex_types,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_get_blocking,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_get_nowait_timeout,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_primitive_types,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcQueueTest::test_queue_put_get,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_echo_command_response_function,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_error_function,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_remote_decorator,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_function,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_list_param_function,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_multiple_param_default_function,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_simple_multiple_param_function,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_stateful_rpc,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_timeout,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_ipc.py::IpcRpcTest::test_void_function_error,OD-Vic,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_redis.py::RedisRpcTest::test_channel_expire,NOD,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_simple.py::SimplePubSubTest::test_event_serialization,NOD,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_simple.py::SimplePubSubTest::test_topic,NOD,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
+https://github.com/thrau/pymq,101857bca2b705c328d3bda3b26797b51e8ffb70,tests/test_provider_simple.py::SimpleRpcTest::test_stateful_rpc,NOD,Deleted,,Deleted in commit a308128253bb86199ae17fff4300f58881bc8c17
 https://github.com/thundra-io/thundra-lambda-agent-python,fcd1c2b0b309721d89bd35511bd6645ebd62a5bc,tests/plugins/log/test_log_plugin.py::test_log_plugin_with_initialization,NIO,Accepted,https://github.com/thundra-io/thundra-agent-python/pull/169,
 https://github.com/thundra-io/thundra-lambda-agent-python,fcd1c2b0b309721d89bd35511bd6645ebd62a5bc,tests/plugins/trace/test_traceable.py::test_trace_args,NIO,DeveloperFixed,5e19c017753a32cd0079dc7862177f1038761317,
 https://github.com/thundra-io/thundra-lambda-agent-python,fcd1c2b0b309721d89bd35511bd6645ebd62a5bc,tests/plugins/trace/test_traceable.py::test_trace_error,NIO,DeveloperFixed,5e19c017753a32cd0079dc7862177f1038761318,
